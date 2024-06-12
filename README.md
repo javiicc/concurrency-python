@@ -18,3 +18,6 @@ You can install the dependecies by installing as a package in "editable" mode:
 
 ![MULTIPROCESSING EXAMPLE 11 3 chunks](concurrency/multiprocessing/images/ex11_Pool_chunk_3.png)
 [Multiprocessing in Python](https://www.javideveloper.com/multiprocessing-in-python)
+
+![ProcessPoolExecutor example 6](concurrency/process-pool-executor/images/ex6_ProcessPoolExecutor.png)
+[ProcessPoolExecutor in Python](https://www.javideveloper.com/processpoolexecutor-class-in-python)
