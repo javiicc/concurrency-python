@@ -1,0 +1,16 @@
+{
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "workbench.colorCustomizations": {
+    "statusBar.foreground": "#2be51a",
+    "titleBar.activeForeground": "#fa9005"
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true
+  },
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.typeCheckingMode": "off",
+  "editor.rulers": [79]
+}
