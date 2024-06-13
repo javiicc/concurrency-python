@@ -51,7 +51,7 @@ def main():
     start_points, end_points = postprocess_times(times)
 
     barh(
-        title="Parallel execution, 4 workers, 8 CPU-bound tasks (3 elements each) of 1 sec each approx",
+        title="Parallel execution, 4 workers, 24 CPU-bound tasks of 1 sec each approx",
         start_points=start_points,
         end_points=end_points,
         path=get_saving_path(
